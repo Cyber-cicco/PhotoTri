@@ -1,7 +1,6 @@
 import tkinter as tk
 import Fonctions
 import os
-import time
 
 
 app_main = tk.Tk()
