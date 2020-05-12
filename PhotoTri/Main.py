@@ -48,5 +48,3 @@ txt_rename.grid(row=8, column=0, columnspan=3)
 
 app_main.mainloop()
 current_directory.isTrue = False
-time.sleep(1)
-current_directory.isTrue = False
